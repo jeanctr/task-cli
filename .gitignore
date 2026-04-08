@@ -1,16 +1,16 @@
-# Base de datos local (NO SE DEBE SUBIR A GITHUB)
+# Local Database (DO NOT COMMIT)
 tasks.db
 
-# Archivos de caché de Python
+# Python Cache Files
 __pycache__/
 *.py[cod]
 *$py.class
 
-# Entornos virtuales (por si lo usas en el futuro)
+# Virtual Environments
 venv/
 env/
 .env
 
-# Archivos temporales del sistema
+# OS-specific Temporary Files
 .DS_Store
 Thumbs.db
